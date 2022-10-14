@@ -176,7 +176,8 @@ position: relative;
 
 .flex-container{
    display: flex;
-   background-color: #B3B6B7;
+   flex-direction: column;
+   background-color: #0ba6da;
    padding: 5px;
    align-items: center;
    justify-content: center;
